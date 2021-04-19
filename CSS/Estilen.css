@@ -8,7 +8,7 @@ footer {
 }
 
 
-img {
-    display: block;
-    margin: auto;
+.card {
+    width: 16rem;
 }
+
